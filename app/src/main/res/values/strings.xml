@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Example Intent</string>
+    <string name="open_first_app">Open first app!</string>
+</resources>
